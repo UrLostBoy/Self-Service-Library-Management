@@ -121,11 +121,11 @@ You can follow me here on github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[forks-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[stars-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[issues-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/issues
+[contributors-shield]: https://img.shields.io/github/contributors/UrLostBoy/Self-Service-Library-Management.svg?style=for-the-badge
+[contributors-url]: https://github.com/UrLostBoy/Self-Service-Library-Management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/UrLostBoy/Self-Service-Library-Management.svg?style=for-the-badge
+[forks-url]: https://github.com/UrLostBoy/Self-Service-Library-Management/network/members
+[stars-shield]: https://img.shields.io/github/stars/UrLostBoy/Self-Service-Library-Management.svg?style=for-the-badge
+[stars-url]: https://github.com/UrLostBoy/Self-Service-Library-Management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/UrLostBoy/Self-Service-Library-Management.svg?style=for-the-badge
+[issues-url]: https://github.com/UrLostBoy/Self-Service-Library-Management/issues
